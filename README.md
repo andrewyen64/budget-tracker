@@ -2,6 +2,8 @@
 
 [![Generic badge](https://img.shields.io/badge/license-GNU_v3.0-brightgreen)](https://shields.io/)
 
+![Budget Tracker Example](public/budget-tracker.png)
+
 ## Description
 
 An application that lets the user add expenses and deposits to their budget online and offline. Transactions entered offline will populate the total when brought back online.
