@@ -23,7 +23,7 @@ Run 'npm install' to download the following packages: express, mongoose, morgan,
 
 Run 'npm start' in the terminal and go to localhost:3000
 
-or go to the Heroku deployed link here: 
+or go to the Heroku link here: <https://shielded-fortress-42520.herokuapp.com/>
 
 ## Questions
 
